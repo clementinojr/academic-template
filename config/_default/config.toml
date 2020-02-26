@@ -5,15 +5,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Erikson's Page"
+title = "Clementino JR's Page"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://eriksonjaguiar.github.io/"
+baseurl = "https://clementinojr.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "2019-2020 - Erikson Aguiar &copy;"
+copyright = "2020-2021 - Junior Clementino &copy;"
 
 ############################
 ## Advanced options below ##
